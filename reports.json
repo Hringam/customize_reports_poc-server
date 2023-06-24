@@ -1,0 +1,102 @@
+[
+  {
+    "report_id": 1,
+    "chart_type": "bar",
+    "created_date": "2023-05-07T00:00:00+05:30",
+    "report_title": "Electricity",
+    "yAxisTitle": "Power Consumption",
+    "xAxisTitle": "Month 2018",
+    "isStacked": true,
+    "axes": [
+      {
+        "axisId": "1",
+        "type": "bar",
+        "label": "people_present",
+        "unit": "kWh",
+        "bulletType": "",
+        "minThresholdValue": "",
+        "minThresholdLabel": ""
+      }
+    ]
+  },
+  {
+    "report_id": 2,
+    "chart_type": "bar",
+    "created_date": "2023-05-07T00:00:00+05:30",
+    "report_title": "Electricity",
+    "yAxisTitle": "Power Consumption",
+    "xAxisTitle": "Month 2018",
+    "isStacked": true,
+    "axes": [
+      {
+        "axisId": "1",
+        "type": "bar",
+        "label": "people_present",
+        "unit": "kWh",
+        "bulletType": "",
+        "minThresholdValue": "",
+        "minThresholdLabel": ""
+      }
+    ]
+  },
+  {
+    "report_id": 3,
+    "chart_type": "bar",
+    "created_date": "2023-05-07T00:00:00+05:30",
+    "report_title": "Electricity",
+    "yAxisTitle": "Power Consumption",
+    "xAxisTitle": "Month 2018",
+    "isStacked": true,
+    "axes": [
+      {
+        "axisId": "1",
+        "type": "bar",
+        "label": "people_present",
+        "unit": "kWh",
+        "bulletType": "",
+        "minThresholdValue": "",
+        "minThresholdLabel": ""
+      }
+    ]
+  },
+  {
+    "report_id": 4,
+    "chart_type": "bar",
+    "created_date": "2023-05-07T00:00:00+05:30",
+    "report_title": "Electricity",
+    "yAxisTitle": "Power Consumption",
+    "xAxisTitle": "Month 2018",
+    "isStacked": true,
+    "axes": [
+      {
+        "axisId": "1",
+        "type": "bar",
+        "label": "people_present",
+        "unit": "kWh",
+        "bulletType": "",
+        "minThresholdValue": "",
+        "minThresholdLabel": ""
+      }
+    ]
+  },
+  {
+    "chart_type": "pie",
+    "created_date": "2023-05-07T00:00:00+05:30",
+    "report_title": "Electricity",
+    "yAxisTitle": "Power Consumption",
+    "xAxisTitle": "Month 2018",
+    "isStacked": true,
+    "axes": [
+      {
+        "axisId": "1",
+        "type": "bar",
+        "label": "people_present",
+        "unit": "kWh",
+        "bulletType": "",
+        "minThresholdValue": "",
+        "minThresholdLabel": ""
+      }
+    ],
+    "report_id": 5
+  }
+]
